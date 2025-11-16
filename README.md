@@ -97,7 +97,7 @@ MONTY HALL simulation with n doors
 
 # As a developer, you have an advantage!
 
-Your are a developper, you don't need the Bayes'theorem.Writing the code, without even executing it, is convincing.
+Your are a developper, you don't need the Bayes'theorem. Writing the code, without even executing it, is convincing.
 
 ```
 if( firstChoice == carDoor ){
@@ -112,3 +112,5 @@ then you agree that the _else_ branch is executed with a probability of 2/3.<br/
 So after 100 executions A is ~33 and B is ~66.
 
 It's that easy!
+
+- Explanation in everyday language [French](https://theconversation.com/les-probabilites-nexistent-pas-mais-on-vous-explique-quand-meme-comment-vous-en-servir-160199)
